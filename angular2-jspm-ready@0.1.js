@@ -1,0 +1,1 @@
+module.exports = require("github:Bolza/angular2-jspm-ready@0.2/upgrade.js");
